@@ -1,6 +1,6 @@
 
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%F0%9F%92%BC-alexander-frischbutter-824a12102/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-frischbutter/) 
 
 # GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fincha&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
